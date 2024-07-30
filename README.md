@@ -1,4 +1,4 @@
-# Apollo Save Game Database
+# Apollo Save Game Database Fork
 
 [![License][img_license]][app_license]
 ![PS1 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS1?label=PS1%20Games&type=dir)
