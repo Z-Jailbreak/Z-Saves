@@ -8,6 +8,13 @@
 ![PSP Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSP?label=PSP%20Games&type=dir)
 ![PSV Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSV?label=PS%20Vita%20Games&type=dir)
 
+## New Info
+
+ - Test
+ - Test 
+   - Test
+   - Test
+
 ## Introduction
 
 The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3):
@@ -19,9 +26,9 @@ The online save database project is part of [Apollo Save Tool](https://github.co
 
 #### Contents:
 
+ - [New info](#info)
  - [Introduction](#introduction)
  - [Exporting a save](#exporting-a-save)
- - [Uploading a save](#uploading-a-save)
  - [Advanced](#advanced)
     - [Database structure](#database-structure)
     - [Uploading a save by pull request](#uploading-a-save-by-pull-request)
@@ -43,12 +50,6 @@ If everything went well, you'll have the exported `.zip` file ready on your USB 
 `/PS3/EXPORT/XXXXXXXX.zip`
 
 In the `EXPORT` folder you'll also find a `saves.txt` file, listing all exported `.zip`s with their Title-IDs and the save-game names.
-
-## Uploading a save
-
-To upload the zipped save file and share it with the community:
-
-The simple way is to create a [GitHub issue](https://z-jailbreak.github.io/Z-Saves/issues/new/choose) with the provided template, then you can write down the save description and upload the Zip file directly there (just drag&drop the `.zip`): https://z-jailbreak.github.io/Z-Saves/issues/new/choose
 
 ## Advanced
 
