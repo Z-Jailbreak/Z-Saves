@@ -1,12 +1,12 @@
 # Z-SaveGame Online Database
 
 [![License][img_license]][app_license]
-![PS1 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS1?label=PS1%20Games&type=dir)
-![PS2 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS2?label=PS2%20Games&type=dir)
-![PS3 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS3?label=PS3%20Games&type=dir)
-![PS4 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS4?label=PS4%20Games&type=dir)
-![PSP Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSP?label=PSP%20Games&type=dir)
-![PSV Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PSV?label=PS%20Vita%20Games&type=dir)
+![PS1 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS1?label=PS1%20Games&type=dir)
+![PS2 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS2?label=PS2%20Games&type=dir)
+![PS3 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS3?label=PS3%20Games&type=dir)
+![PS4 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS4?label=PS4%20Games&type=dir)
+![PSP Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSP?label=PSP%20Games&type=dir)
+![PSV Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSV?label=PS%20Vita%20Games&type=dir)
 
 ## New Info
 
