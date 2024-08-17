@@ -1,4 +1,4 @@
-# Apollo Save Game Database Fork
+# Z-SaveGame Online Database
 
 [![License][img_license]][app_license]
 ![PS1 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS1?label=PS1%20Games&type=dir)
@@ -68,7 +68,7 @@ The database structure is simple:
 ### Uploading a save by pull request
 
 If you're an advanced GitHub user, you can also:
- - Fork the project https://github.com/bucanero/apollo-saves
+ - Fork the project https://github.com/z-jailbreak/Z-Saves
  - Add your save `12345678.zip` to the `BLES00000` folder
  - Edit `saves.txt` in the folder, adding `12345678.zip` with a short description
  - Submit the changes with a Pull Request
