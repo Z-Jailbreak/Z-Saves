@@ -1,20 +1,15 @@
 # Z-SaveGame Online Database
 
 [![License][img_license]][app_license]
-![PS1 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS1?label=PS1%20Games&type=dir)
-![PS2 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS2?label=PS2%20Games&type=dir)
 ![PS3 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS3?label=PS3%20Games&type=dir)
 ![PS4 Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PS4?label=PS4%20Games&type=dir)
-![PSP Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSP?label=PSP%20Games&type=dir)
 ![PSV Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSV?label=PS%20Vita%20Games&type=dir)
 
 ## Introduction
 
 The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3):
- - [PlayStation 2](https://github.com/bucanero/apollo-ps2) version
  - [PlayStation 3](https://github.com/bucanero/apollo-ps3) version
  - [PlayStation 4](https://github.com/bucanero/apollo-ps4) version
- - [PlayStation Portable](https://github.com/bucanero/apollo-psp) version
  - [PlayStation Vita](https://github.com/bucanero/apollo-vita) version
 
 #### Contents:
@@ -39,7 +34,7 @@ To start, I'll assume you already have the latest version of Apollo installed. Y
  - Wait for the `.zip` export file to be generated.
 
 If everything went well, you'll have the exported `.zip` file ready on your USB storage device here:
-`/PS3/EXPORT/XXXXXXXX.zip`
+`/PS4/EXPORT/XXXXXXXX.zip`
 
 In the `EXPORT` folder you'll also find a `saves.txt` file, listing all exported `.zip`s with their Title-IDs and the save-game names.
 
@@ -48,7 +43,7 @@ In the `EXPORT` folder you'll also find a `saves.txt` file, listing all exported
 ### Database structure
 
 The database structure is simple:
- - Each game has a folder, named with the TITLE-ID. (e.g. `BLUS12345`)
+ - Each game has a folder, named with the TITLE-ID. (e.g. `CUSA12345`)
  - game saves are stored in `.zip` files inside the game's TITLE ID folder.
  - The Zip filename must be `XXXXXXXX.zip`, where **X** can be a number from `0` to `9`. (`.zip` extension lowercase).
  - The Zip file must contain the save-game folder and data. (e.g. `MYGAME-DATA/*`)
