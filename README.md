@@ -8,13 +8,6 @@
 ![PSP Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSP?label=PSP%20Games&type=dir)
 ![PSV Titles](https://img.shields.io/github/directory-file-count/z-jailbreak/Z-Saves/PSV?label=PS%20Vita%20Games&type=dir)
 
-## New Info
-
- - Test
- - Test 
-   - Test
-   - Test
-
 ## Introduction
 
 The online save database project is part of [Apollo Save Tool](https://github.com/bucanero/apollo-ps3):
@@ -26,7 +19,6 @@ The online save database project is part of [Apollo Save Tool](https://github.co
 
 #### Contents:
 
- - [New info](#info)
  - [Introduction](#introduction)
  - [Exporting a save](#exporting-a-save)
  - [Advanced](#advanced)
